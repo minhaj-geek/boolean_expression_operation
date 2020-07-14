@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Boolean_Logic_Operations\Boolean_Logic_Operations\bin\Debug\Boolean_Logic_Operations.exe.config
+C:\Users\user\Desktop\Boolean_Logic_Operations\Boolean_Logic_Operations\bin\Debug\Boolean_Logic_Operations.exe
+C:\Users\user\Desktop\Boolean_Logic_Operations\Boolean_Logic_Operations\bin\Debug\Boolean_Logic_Operations.pdb
+C:\Users\user\Desktop\Boolean_Logic_Operations\Boolean_Logic_Operations\obj\Debug\Boolean_Logic_Operations.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Boolean_Logic_Operations\Boolean_Logic_Operations\obj\Debug\Boolean_Logic_Operations.exe
+C:\Users\user\Desktop\Boolean_Logic_Operations\Boolean_Logic_Operations\obj\Debug\Boolean_Logic_Operations.pdb
